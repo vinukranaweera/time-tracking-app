@@ -47,16 +47,16 @@ flutter run
 
 Here are some features planned for future development:
 
-* 🔍 Sorting & Filtering:
+* 🔍 **Sorting & Filtering**:
 	- Sort by date, duration, or project
 	 Filter by project, task, or date range
-* 📊 Data Visualization:
+* 📊 **Data Visualization**:
 	- Use charts_flutter for bar, pie, or line charts
-* 🧑‍💻 Enhanced UI/UX:
+* 🧑‍💻 **Enhanced UI/UX**:
 	- Animations and transitions
 	- Improved visual feedback
-* 🔗 API Integration:
+* 🔗 **API Integration**:
 	- Import projects/tasks from external tools
 	- Export time logs to compatible formats
-* ⏱️ Advanced Time Management:
+* ⏱️ **Advanced Time Management**:
 	- Start, pause, and stop timers for accurate tracking
